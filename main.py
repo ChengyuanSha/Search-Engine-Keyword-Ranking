@@ -1,5 +1,5 @@
-# Written by Chengyuan Sha 2013204
-# This assignment implements AVL tree and MaxHeap to mimic web search engine
+# Written by Chengyuan Sha 
+# This code implements AVL tree and MaxHeap to mimic web search engine
 
 from os import listdir
 from os.path import isfile, join
